@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meetsoni1206
-- 👀 I’m interested in front end development.
-- 🌱 I’m currently learning github.
+- 👀 I’m interested in Android App development.
+- 🌱 
 - 💞️ I’m looking to collaborate on some projects to enhance my skills.
 - 📫 How to reach me @Meetsoni1206
 
